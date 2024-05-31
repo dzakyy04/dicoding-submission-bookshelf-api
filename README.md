@@ -19,6 +19,8 @@ Dicoding submission for "Belajar Membuat Aplikasi Back-End untuk Pemula dengan G
 - Start the local development server:
 
       npm run start
+
+    You can now access the server at http://localhost:8900
     
 ## Test on Postman
 
